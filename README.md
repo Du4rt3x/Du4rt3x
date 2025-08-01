@@ -3,7 +3,6 @@
 - 🔭 Trabalho com jogos na Unreal Engine/ Unity
 - 🌱 Estudante de Jogos Digitais
 - 📫 Contate-me no email: contatoduartexdev@gmail.com
-- 😄 ele/dele
 ## Status Github
 - <picture>
   <source
