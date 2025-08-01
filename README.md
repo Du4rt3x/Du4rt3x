@@ -3,7 +3,7 @@
 - 🔭 Trabalho com jogos na Unreal Engine/ Unity
 - 🌱 Estudante de Jogos Digitais
 - 📫 Contate-me no email: contatoduartexdev@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 ele/dele
 ## Status Github
 - <picture>
   <source
